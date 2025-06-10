@@ -27,17 +27,7 @@ The objective is to demonstrate a simplified version of a real telecom billing a
 
 ---
 
-## ⚙️ Technologies Used
 
-- **Python 3.x**
-- **Pandas** for data processing
-- **Faker** for synthetic data generation
-- **CSV/JSON** as data formats
-- **Jupyter Notebooks** for prototyping (optional)
-- **Matplotlib / Seaborn** for visualization (optional)
-- *(Optional)* PostgreSQL or SQLite for data persistence
-
----
 
 ## 🚀 How to Run the Project
 
